@@ -1,0 +1,5 @@
+.tab-item {
+  list-style-type: none;
+  margin: 10px;
+  cursor: pointer;
+}
